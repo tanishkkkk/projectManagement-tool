@@ -1,5 +1,5 @@
-# SentiSum Assignment 
-This is a React TypeScript project for redesigning the Sentisum customer feedback analytics platform with modern UI/UX principles.
+### hackathon
+This is a React TypeScript project
 
 ### Key Focus
 - **UI/UX** Improvement with Interactive pie charts.
